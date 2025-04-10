@@ -1,0 +1,1 @@
+./parse_players.sh > leaderboard.json
